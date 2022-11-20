@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using DataAccessLayer.Models;
 using DataAccessLayer;
 using System.Threading.Tasks;
 
